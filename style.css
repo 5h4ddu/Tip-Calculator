@@ -1,0 +1,29 @@
+.tip-cal-container {
+  background-color: #f9fbfe;
+  height: 100vh;
+}
+.tip-cal-img {
+  width: 100%;
+}
+
+.tip-cal-heading {
+  color: #264fa2;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.input-label {
+  color: #7b8797;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.user-input {
+  height: 40px;
+  width: 100%;
+  border: 1px solid #cdb2d9;
+  border-radius: 4px;
+  padding-left: 12px;
+}
